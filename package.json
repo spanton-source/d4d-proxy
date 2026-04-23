@@ -1,0 +1,12 @@
+{
+  "name": "d4d-proxy",
+  "version": "1.0.0",
+  "description": "URL fetch proxy for D4D Method app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
